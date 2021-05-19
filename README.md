@@ -12,11 +12,14 @@ I will publish the projects as soon as they are completely finished.
 
 I am currently working on several Discord bots and some web stuff.
 
+--------------------------
 
 ### 💻 Programming skills:
 
 - Python (In progress)
 - Java (In progress)
+
+-----------------------
 
 ### 💾 Scripting skills:
 
