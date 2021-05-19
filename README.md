@@ -29,5 +29,5 @@ I am currently working on several Discord bots and some web stuff.
 
 ### 💻 Equipment
 
-* - Laptop
- *  CPU: 
+* Laptop
+ - CPU: 
