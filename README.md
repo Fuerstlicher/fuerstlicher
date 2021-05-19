@@ -4,7 +4,7 @@
 
 ### 👤 About me
 
-I'm Manu and I'm from Germany. I'm a Freelance Developer and I'm currently building a company called OPZebra.
+I'm Manu and I'm from Germany. I'm a Freelance Developer and I'm currently building a company called [OPZebra.
 My network "OPZebra" consists of many small projects. For example, we programmed one of the first global chat bots for Discord.
 
 If you are wondering why my personal account here is so empty, I mostly work on projects that are private.
@@ -18,8 +18,6 @@ I am currently working on several Discord bots and some web stuff.
 
 - Python (In progress)
 - Java (In progress)
-
------------------------
 
 ### 💾 Scripting skills:
 
@@ -39,6 +37,8 @@ I am currently working on several Discord bots and some web stuff.
   - IntelliJ IDEA Community
   - Visual Studio Code
 
+-----------------------
+
 ### ✉️ Contact
 
 If you want to get in touch with me or my network pls just send us an E-Mail or Join our Discord Server.
@@ -47,7 +47,7 @@ If you want to get in touch with me or my network pls just send us an E-Mail or 
 
 * Administration: [contact@opzebra.de](mailto:contact@opzebra.de)
 * Social Team: [social@opzebra.de](mailto:social@opzebra.de)
-* Discord: [http://discord.opzebra.de/](https://discord.opzebra.de)
+* Discord: [discord.opzebra.de](https://discord.opzebra.de)
 
 #### ferociq
 
