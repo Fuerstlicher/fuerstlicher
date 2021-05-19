@@ -14,7 +14,7 @@ I am currently working on several Discord bots and some web stuff.
 
 --------------------------
 
-### 💻 Programming skills:
+### ⌨️ Programming skills:
 
 - Python (In progress)
 - Java (In progress)
@@ -24,3 +24,10 @@ I am currently working on several Discord bots and some web stuff.
 ### 💾 Scripting skills:
 
 - HTML 
+
+---------------------------
+
+### 💻 Equipment
+
+- Laptop
+ - CPU: 
