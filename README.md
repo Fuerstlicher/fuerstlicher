@@ -29,5 +29,22 @@ I am currently working on several Discord bots and some web stuff.
 
 ### 💻 Equipment
 
-* Laptop
- - CPU: 
+* Hardware
+  - CPU: Intel Core i5 10th Gen
+  - GPU: NVIDIA GeForce GTX 1650
+  - Mouse: Roccat Kone Pro / Roccat Kone Pure Owl Eye
+  - Headset: Logitech G430
+ * Editor
+  - PyCharm Community
+  - IntelliJ IDEA Community
+  - Visual Studio Code
+
+### ✉️ Contact
+
+If you want to get in touch with me or my network pls just send us an E-Mail or Join our Discord Server.
+
+#### OPZebra Network
+
+* Administration: [contact@opzebra.de](mailto:contact@opzebra.de)
+* Social Team: [social@opzebra.de](mailto:social@opzebra.de)
+* Discord: [http://discord.opzebra.de/](https://discord.opzebra.de)
