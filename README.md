@@ -4,7 +4,7 @@
 
 ### 👤 About me
 
-I'm Manu a Freelance Developer from germany and I'm currently building a company called [OPZebra](https://www.opzebra.de/).
+I'm Manu a Freelance Developer from germany and I'm currently building a network called [OPZebra](https://www.opzebra.de/).
 My network "OPZebra" consists of many small projects. For example, we programmed one of the first global chat bots for Discord.
 
 If you are wondering why my personal account here is so empty, I mostly work on projects that are private.
