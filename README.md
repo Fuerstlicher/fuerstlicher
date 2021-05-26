@@ -21,7 +21,8 @@ I am currently working on several Discord bots and some web stuff.
 
 ### 💾 Scripting skills:
 
-- HTML 
+- HTML
+- BDScript
 
 ---------------------------
 
