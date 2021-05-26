@@ -18,10 +18,7 @@ I am currently working on several Discord bots and some web stuff.
 
 - Python (In progress)
 - JavaScript (In progress)
-
-### 💾 Scripting skills:
-
-- HTML
+- Web (HTML)
 - BDScript
 
 ---------------------------
