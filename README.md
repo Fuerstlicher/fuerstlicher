@@ -17,7 +17,6 @@ I am currently working on several Discord bots and some web stuff.
 ### ⌨️ Programming skills:
 
 - Python (In progress)
-- JavaScript (In progress)
 - Web (HTML)
 - BDScript
 
@@ -31,7 +30,6 @@ I am currently working on several Discord bots and some web stuff.
   - Mouse: Roccat Kone Pro / Roccat Kone Pure Owl Eye
 * Editor
   - PyCharm Community
-  - IntelliJ IDEA Community
   - Visual Studio Code
 
 -----------------------
