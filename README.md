@@ -47,5 +47,5 @@ If you want to get in touch with me or my network pls just send us an E-Mail or 
 #### ferociq
 
 * E-Mail: [manu@opzebra.de](mailto:manu@opzebra.de)
-* Discord: [ferociq#6299](https://discord.com/users/477070826668294155)
+* Discord: [ferocia#0001](https://discord.com/users/477070826668294155)
 * Twitter: [ferociq](https://twitter.com/ferociq)
