@@ -27,10 +27,6 @@ I am currently working on several Discord bots and some web stuff.
 * Hardware
   - CPU: Intel Core i5 10th Gen
   - GPU: NVIDIA GeForce GTX 1650
-  - Mouse: Roccat Kone Pro / Roccat Kone Pure Owl Eye
-* Editor
-  - PyCharm Community
-  - Visual Studio Code
 
 -----------------------
 
