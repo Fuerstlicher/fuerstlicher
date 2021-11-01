@@ -40,7 +40,7 @@ If you want to get in touch with me or my network pls just send us an E-Mail or 
 * Discord: [discord.opzebra.de](http://discord.opzebra.de)
 * Twitter: [OPZebraDE](http://twitter.opzebra.de/)
 
-#### ferociq
+#### ferocia
 
 * E-Mail: [manu@opzebra.de](mailto:manu@opzebra.de)
 * Discord: [ferocia#0001](https://discord.com/users/477070826668294155)
