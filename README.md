@@ -37,8 +37,8 @@ If you want to get in touch with me or my network pls just send us an E-Mail or 
 #### OPZebra Network
 
 * E-Mail: [social@opzebra.de](mailto:social@opzebra.de)
-* Discord: [discord.opzebra.de](https://discord.opzebra.de)
-* Twitter: [OPZebraDE](https://twitter.opzebra.de/)
+* Discord: [discord.opzebra.de](http://discord.opzebra.de)
+* Twitter: [OPZebraDE](http://twitter.opzebra.de/)
 
 #### ferociq
 
