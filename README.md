@@ -27,6 +27,8 @@ I am currently working on several Discord bots and some web stuff.
 * Hardware
   - CPU: Intel Core i5 10th Gen
   - GPU: NVIDIA GeForce GTX 1650
+  - RAM: 16GB
+  - SSD: SAMSUNG MZVLB512HBJQ-00000 512GB
 
 -----------------------
 
