@@ -27,6 +27,8 @@ I will publish the projects as soon as they are completely finished.
   - CPU: Intel Core i5 10th Gen
   - GPU: NVIDIA GeForce GTX 1650
   - RAM: 16GB DDR4
+  - Storage:
+  -     512GB Samsung M.2 SSD PM981a, 1TB Crucial® P3 PCIe NVMe™ M.2 SSD 2280
 
 -----------------------
 
