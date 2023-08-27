@@ -6,12 +6,8 @@
 
 I'm Manu a freelance developer and enthusiastic gamer from germany. Currently building a network called [OPZebra](https://www.opzebra.de/)
 My network "OPZebra" consists of many small projects. For example, we programmed one of the first global chat bots for Discord.
-I am currently working on some web stuff and I'm also starting a Discord for the fan community of the German children's book and radio play classic TKKG. 
 
-If you are wondering why my personal account here is so empty, I mostly work on projects that are private.
-I will publish the projects as soon as they are completely finished. 
-
-### 🚧 OPZebra Projects:
+#### 🚧 OPZebra Projects:
 
 Here is a small list with the most important projects of the OPZebra network
 
@@ -19,6 +15,13 @@ Here is a small list with the most important projects of the OPZebra network
 - [OPZebra Discord](http://discord.opzebra.de/)
 - [OPZebra Global Discord bot](http://global.opzebra.de/)
 - [OPZebra website](https://www.opzebra.de/)
+  
+I am currently working on some web stuff and I'm also starting a Discord for the fan community of the German children's book and radio play classic TKKG. 
+
+If you are wondering why my personal account here is so empty, I mostly work on projects that are private.
+I will publish the projects as soon as they are completely finished. 
+
+
   
 --------------------------
 
