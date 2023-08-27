@@ -5,24 +5,12 @@
 ### 👤 About me
 
 I'm Manu a freelance developer and enthusiastic gamer from germany. Currently building a network called [OPZebra](https://www.opzebra.de/)
-My network "OPZebra" consists of many small projects. For example, we programmed one of the first global chat bots for Discord.
-
-#### 🚧 OPZebra Projects:
-
-Here is a small list with the most important projects of the OPZebra network
-
-- [OPZebra Hypixel Bedwars guild](http://gilde.opzebra.de/)
-- [OPZebra Discord](http://discord.opzebra.de/)
-- [OPZebra Global Discord bot](http://global.opzebra.de/)
-- [OPZebra website](https://www.opzebra.de/)
-  
+My network "OPZebra" consists of many small projects. For example, we programmed one of the first global chat bots for Discord.  
 I am currently working on some web stuff and I'm also starting a Discord for the fan community of the German children's book and radio play classic TKKG. 
 
 If you are wondering why my personal account here is so empty, I mostly work on projects that are private.
 I will publish the projects as soon as they are completely finished. 
 
-
-  
 --------------------------
 
 ### ⌨️ My programming skills:
@@ -39,6 +27,17 @@ I will publish the projects as soon as they are completely finished.
   - CPU: Intel Core i5 10th Gen
   - GPU: NVIDIA GeForce GTX 1650
   - RAM: 16GB DDR4
+
+-----------------------
+
+### 🚧 OPZebra Projects:
+
+Here is a small list with the most important projects of the OPZebra network
+
+- [OPZebra Hypixel Bedwarsguild](http://gilde.opzebra.de/)
+- [OPZebra Discord](http://discord.opzebra.de/)
+- [OPZebra Global Discordbot](http://global.opzebra.de/)
+- [OPZebra Website](https://www.opzebra.de/)
 
 -----------------------
 
