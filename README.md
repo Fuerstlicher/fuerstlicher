@@ -28,7 +28,7 @@ I will publish the projects as soon as they are completely finished.
   - GPU: NVIDIA GeForce GTX 1650
   - RAM: 16GB DDR4
   - Storage:
-    *512GB Samsung M.2 SSD PM981a, 1TB Crucial® P3 PCIe NVMe™ M.2 SSD 2280
+  *512GB Samsung M.2 SSD PM981a, 1TB Crucial® P3 PCIe NVMe™ M.2 SSD 2280
 
 -----------------------
 
