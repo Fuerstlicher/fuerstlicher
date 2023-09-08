@@ -5,8 +5,8 @@
 ### 👤 About me
 
 I'm Manu a freelance developer and enthusiastic gamer from germany. Currently building a network called [OPZebra](https://www.opzebra.de/).
-My network consists of many small projects. For example, we programmed one of the first global chat bots for Discord.  
-I am currently working on some web stuff.
+My network consists of many small projects. For example, we programmed one of the first global chatbots for Discord in 2019, but it is now offline. 
+Right now I'm focusing on our main project, which is the Bedwars guild on the Hypixel Minecraft network.
 
 If you are wondering why my personal account here is so empty, I mostly work on projects that are private.
 I will publish the projects as soon as they are completely finished. 
@@ -16,7 +16,7 @@ I will publish the projects as soon as they are completely finished.
 ### ⌨️ My programming skills:
 
 - Python (In progress)
-- Web (HTML,CSS, PHP)
+- Web (HTML,CSS)
 - BDScript
 
 ---------------------------
