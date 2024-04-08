@@ -1,4 +1,4 @@
-## Hi guys 👋
+## Hi! Nice to see you on my page 👋
 
 - 👤 I'm Manu a freelance developer and enthusiastic gamer
 - 📍 I'm  from germany
