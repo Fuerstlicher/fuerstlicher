@@ -10,7 +10,7 @@ Hi there, I'm Manu.
 
 ### 👨🏻‍💻 About Me
 
-- 💼  Apprentice to become a IT Specialist, Subject Area: System Integration (IHK) @ Systemair GmbH
+- 💼  Apprentice to become an IT Specialist, Subject Area: System Integration (IHK) @ Systemair GmbH
 - 🌱  Part time freelancer
 - 🎮  Enthusiastic gamer
 - 🔭  Working on building a network called <a href="https://github.com/OPZebra">OPZebra</a>
