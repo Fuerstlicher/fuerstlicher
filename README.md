@@ -31,9 +31,4 @@ Hi there, I'm Manu.
 ### 🔭 Projects
 _I currently don't have any public projects yet_
 
-### 💭Social Media
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/manu.kvc)
-[![YouTube](https://img.shields.io/badge/Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@manuelkavcic)
-
 
