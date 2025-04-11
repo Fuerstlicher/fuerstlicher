@@ -1,7 +1,7 @@
 ## "Ich bin nicht perfektionistisch, ich bin nur detailverliebt"
 
 ### 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-kavcic-739326323)
+
 [![GitHub](https://img.shields.io/badge/Follow-FFFFFF?style=flat-square&logo=github&logoColor=181717)](https://github.com/fuerstlicher)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/477070826668294155)
 [![Email](https://img.shields.io/badge/manu@opzebra.de-FFFFFF?style=flat-square&logo=gmail&logoColor=red)](mailto:manu@opzebra.de)
@@ -10,7 +10,7 @@ Hi there, I'm Manu.
 
 ### 👨🏻‍💻 About Me
 
-- 💼  Apprentice to become an IT Specialist, Subject Area: System Integration (IHK) @ Systemair GmbH
+- 💼  Apprentice to become an IT Specialist, Subject Area: System Integration (IHK)
 - 🌱  Part time freelancer
 - 🎮  Enthusiastic gamer
 - 🔭  Working on building a network called <a href="https://github.com/OPZebra">OPZebra</a>
