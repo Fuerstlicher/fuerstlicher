@@ -23,10 +23,9 @@ Hi there, I'm Manu.
 ![BDScript](https://img.shields.io/badge/BDScript-FF8000?style=for-the-badge&logo=dev-dot-to&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![PGP](https://img.shields.io/badge/PGP-008000?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white)
 ![FIDO](https://img.shields.io/badge/FIDO-FFCC00?style=for-the-badge&logo=fido-alliance&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
 
 ### 🔭 Projects
 _I currently don't have any public projects yet_
