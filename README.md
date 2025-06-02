@@ -11,8 +11,8 @@ Hi there, I'm Manu.
 ### 👨🏻‍💻 About Me
 
 - 💼  Apprentice to become an IT Specialist, Subject Area: System Integration (IHK)
-- 🌱  Part time freelancer
 - 🛟  IT-Security nerd
+- 🌱  Part time freelancer
 - 🎮  Enthusiastic gamer
 - 🔭  Working on building a network called <a href="https://github.com/OPZebra">OPZebra</a>
 - 🛡️  Volunteer moderator <a href="https://github.com/greeveu">@Greev.eu</a> Minecraft minigame network
