@@ -10,8 +10,8 @@ Hi there, I'm Manu.
 
 ### 👨🏻‍💻 About Me
 
-- 💼  Apprentice to become an IT Specialist, Subject Area: System Integration (IHK)
-  German title: "Fachinformatiker Systemintegration"
+- 💼  Apprentice to become an IT Specialist, Subject Area: System Integration (IHK)  
+  *German title: "Fachinformatiker Systemintegration"*
 - 🛟  IT-Security nerd
 - 🌱  Aspiring Developer
 - 🎮  Enthusiastic gamer
