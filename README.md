@@ -21,7 +21,6 @@ Hi there, I'm Manu.
 
 ### 🛠Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![BDScript](https://img.shields.io/badge/BDScript-FF8000?style=for-the-badge&logo=dev-dot-to&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
