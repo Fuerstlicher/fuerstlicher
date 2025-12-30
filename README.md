@@ -29,6 +29,10 @@ Hi there, I'm Manu.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=Cloudflare&amp;logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white)
+![Scoop](https://img.shields.io/badge/Scoop-2A7FFF?style=for-the-badge&logo=windowsterminal&logoColor=white)
+
+
+
 
 ### 🔭 Projects
 _I currently don't have any public projects yet_
