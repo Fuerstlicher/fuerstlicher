@@ -21,20 +21,18 @@ Hi there, I'm Manu.
 
 ### 🛠Tech Stack
 
-![BDScript](https://img.shields.io/badge/BDScript-FF8000?style=for-the-badge&logo=dev-dot-to&logoColor=white)
+![BDScript](https://img.shields.io/badge/BDScript-FF8000?style=for-the-badge&logo=stackoverflow&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![PGP](https://img.shields.io/badge/PGP-008000?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white)
 ![FIDO](https://img.shields.io/badge/FIDO-FFCC00?style=for-the-badge&logo=fido-alliance&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=Cloudflare&amp;logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white)
 ![Scoop](https://img.shields.io/badge/Scoop%20via%20Terminal-FFFFFF?style=for-the-badge&logo=gnometerminal&logoColor=241F31)
-
-
-
-
-
+![CiscoNetAcad](https://img.shields.io/badge/Cisco%20NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### 🔭 Projects
 _I currently don't have any public projects yet_
