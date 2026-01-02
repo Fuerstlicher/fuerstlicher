@@ -33,8 +33,10 @@ Hi there, I'm Manu.
 ![CiscoNetAcad](https://img.shields.io/badge/Cisco%20NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![1Password](https://img.shields.io/badge/1password-3B66BC?style=for-the-badge&logo=1password&logoColor=white)
+![Zen Browser](https://img.shields.io/badge/Zen-F76F53?style=for-the-badge&logo=zenbrowser&logoColor=white)
+![Ente Auth](https://img.shields.io/badge/ente%20auth-00BC45?style=for-the-badge&logo=ente&logoColor=white)
+
 
 ### 🔭 Projects
 _I currently don't have any public projects yet_
-
-
