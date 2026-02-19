@@ -19,7 +19,7 @@ Hi there, I'm Manu.
 - 🛡️  Volunteer moderator <a href="https://github.com/greeveu">@Greev.eu</a> Minecraft minigame network
 - ⚡  Fun fact: I can talk a lot...
 
-### 🛠Tech Stack
+### 🛠 Tech Stack
 
 ![BDScript](https://img.shields.io/badge/BDScript-FF8000?style=for-the-badge&logo=stackoverflow&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,6 +37,13 @@ Hi there, I'm Manu.
 ![1Password](https://img.shields.io/badge/1password-3B66BC?style=for-the-badge&logo=1password&logoColor=white)
 ![Zen Browser](https://img.shields.io/badge/Zen-F76F53?style=for-the-badge&logo=zenbrowser&logoColor=white)
 ![Ente Auth](https://img.shields.io/badge/ente%20auth-00BC45?style=for-the-badge&logo=ente&logoColor=white)
+
+### 📊 Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=fuerstlicher&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fuerstlicher&theme=tokyo-night)
+
+
 
 
 ### 🔭 Projects
