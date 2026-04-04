@@ -4,7 +4,7 @@
 
 [![GitHub](https://img.shields.io/badge/Follow-FFFFFF?style=flat-square&logo=github&logoColor=181717)](https://github.com/fuerstlicher)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/477070826668294155)
-[![Email](https://img.shields.io/badge/manu@opzebra.de-FFFFFF?style=flat-square&logo=gmail&logoColor=red)](mailto:manu@opzebra.de)
+[![Mail](https://img.shields.io/badge/manu@opzebra.de-FFFFFF?style=flat-square&logo=protonmail&logoColor=6D4AFF)](mailto:manu@opzebra.de)
 
 Hi there, I'm Manu.
 
