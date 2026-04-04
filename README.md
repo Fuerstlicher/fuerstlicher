@@ -17,7 +17,7 @@ Hi there, I'm Manu.
 - 🎮  Enthusiastic gamer
 - 🔭  Working on building a network called <a href="https://github.com/OPZebra">OPZebra</a>
 - 🛡️  Volunteer moderator <a href="https://github.com/greeveu">@Greev.eu</a> Minecraft minigame network
-- 🏗️  Volunteer server manager <a href="https://herukanbot.instatus.com/">@Herukan</a>
+- 🏗️  Volunteer server manager <a href="https://discord.gg/TEzsDzYqV9/">@Herukan</a>
 - ⚡  Fun fact: I can talk a lot...
 
 ### 🛠 Tech Stack
