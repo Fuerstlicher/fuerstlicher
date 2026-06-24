@@ -27,7 +27,6 @@ Hi there, I'm Manu.
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![PGP](https://img.shields.io/badge/PGP-008000?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white)
 ![FIDO](https://img.shields.io/badge/FIDO-FFCC00?style=for-the-badge&logo=fido-alliance&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![ChromeOS](https://img.shields.io/badge/ChromeOS-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=Cloudflare&amp;logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white)
@@ -37,7 +36,6 @@ Hi there, I'm Manu.
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![1Password](https://img.shields.io/badge/1password-3B66BC?style=for-the-badge&logo=1password&logoColor=white)
 ![Zen Browser](https://img.shields.io/badge/Zen-F76F53?style=for-the-badge&logo=zenbrowser&logoColor=white)
-![Ente Auth](https://img.shields.io/badge/ente%20auth-00BC45?style=for-the-badge&logo=ente&logoColor=white)
 
 ### 📊 Stats
 
