@@ -1,5 +1,3 @@
-Neue ReadMe
-
 ## "Ich bin nicht perfektionistisch, ich bin nur detailverliebt"
 
 ### 📫 How to reach me
