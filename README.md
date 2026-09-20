@@ -17,7 +17,7 @@ Hi there, I'm Manu.
 - 🎮  Enthusiastic gamer
 - 🔭  Working on building a network called <a href="https://github.com/OPZebra">OPZebra</a>
 - 🛡️  Volunteer moderator <a href="https://github.com/greeveu">@Greev.eu</a> Minecraft minigame network
-- 🏗️  Volunteer server manager <a href="https://discord.gg/TEzsDzYqV9/">@Herukan</a>
+- 🏗️  Former volunteer server manager <a href="https://discord.gg/TEzsDzYqV9/">@Herukan</a>
 - ⚡  Fun fact: I can talk a lot...
 
 
@@ -72,21 +72,11 @@ Hi there, I'm Manu.
 
 ## 📊 Stats
 
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-stats-extended.vercel.app/api?username=Fuerstlicher&theme=github_dark&hide_border=false" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fuerstlicher&theme=github_dark&hide_border=false&layout=compact" />
-
-</td>
-</tr>
-</table>
-
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fuerstlicher&theme=dark&hide_border=true" alt="Fuerstlichers GitHub Streak" />
+  </a>
+  
 ---
 <table>
 <tr>
