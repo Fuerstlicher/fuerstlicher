@@ -14,10 +14,8 @@ Hi there, I'm Manu.
   *German title: "Fachinformatiker Systemintegration"*
 - 🛟  IT-Security nerd
 - 🌱  Aspiring Developer
-- 🎮  Enthusiastic gamer
-- 🔭  Working on building a network called <a href="https://github.com/OPZebra">OPZebra</a>
 - 🛡️  Volunteer moderator <a href="https://github.com/greeveu">@Greev.eu</a> Minecraft minigame network
-- 🏗️  Former volunteer server manager <a href="https://discord.gg/TEzsDzYqV9/">@Herukan</a>
+- 🏗️  Former volunteer server manager <a href="https://www.herukan.com/de">@Herukan</a>
 - ⚡  Fun fact: I can talk a lot...
 
 
