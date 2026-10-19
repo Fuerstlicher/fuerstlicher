@@ -54,15 +54,7 @@ Hi there, I'm Manu.
   ![FIDO](https://img.shields.io/badge/FIDO-FFCC00?style=for-the-badge&logo=fido-alliance&logoColor=black)
   ![NetAcad](https://img.shields.io/badge/NetAcad-black?style=for-the-badge&logo=cisco&logoColor=white)
 
-</td>
-<td width="20%" valign="top">
-
-### Operating Systems
-
-  [![Debian](https://skillicons.dev/icons?i=debian)](https://skillicons.dev)
-  [![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
-
-</td>  
+</td> 
 </tr>
 </table>
 
