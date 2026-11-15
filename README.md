@@ -4,7 +4,6 @@
 
 [![GitHub](https://img.shields.io/badge/Follow-FFFFFF?style=flat-square&logo=github&logoColor=181717)](https://github.com/fuerstlicher)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/477070826668294155)
-[![Mail](https://img.shields.io/badge/manu@opzebra.de-FFFFFF?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:manu@opzebra.de)
 
 Hi there, I'm Manu.
 
@@ -14,7 +13,6 @@ Hi there, I'm Manu.
   *German title: "Fachinformatiker Systemintegration"*
 - 🛟  IT-Security nerd
 - 🌱  Aspiring Developer
-- 🏗️  Volunteer moderator <a href="https://github.com/greeveu">@Greev.eu</a> Minecraft minigame network
 - ⚡  Fun fact: I can talk a lot...
 
 
@@ -42,18 +40,6 @@ Hi there, I'm Manu.
   [![IDEA](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
 
 </td>
-<td width="20%" valign="top">
-
-### Tools
-
-  ![Git](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white)
-  ![PGP](https://img.shields.io/badge/PGP-008000?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white)
-  ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&amp;logo=codeberg&amp;logoColor=white)
-  ![FIDO](https://img.shields.io/badge/FIDO-FFCC00?style=for-the-badge&logo=fido-alliance&logoColor=black)
-  ![NetAcad](https://img.shields.io/badge/NetAcad-black?style=for-the-badge&logo=cisco&logoColor=white)
-
-</td> 
 </tr>
 </table>
 
@@ -65,35 +51,6 @@ Hi there, I'm Manu.
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fuerstlicher&theme=dark&hide_border=true" alt="Fuerstlichers GitHub Streak" />
   </a>
-  
----
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 🔭 Main Project
-
-### **_I currently don't have any public projects yet_**
-
-[Repository](https://github.com/Fuerstlicher)
-
-</td>
-<td width="50%" valign="top">
-
-## 🧠 Previous Project
-
-### **OPZebra Global**
-
-A Discord global chat bot my developer team worked on.
-
-Currently paused, but it was one of the first global chat discord bots ever :)
-
-[OPZebra Developments Team](https://github.com/OPZebra)
-
-<br><br>
-</td>
-</tr>
-</table>
 
 ---
 
